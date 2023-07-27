@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/four-card-feature-section-JN8SD3ggzo
 - Live Site URL: https://satryandi-miniproject13.netlify.app/
 
 ## My process
